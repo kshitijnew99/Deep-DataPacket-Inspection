@@ -7,7 +7,7 @@
 #include <chrono>
 #include <vector>
 #include <atomic>
-#include <optional>
+#include "compat_optional.h"
 
 namespace DPI {
 
