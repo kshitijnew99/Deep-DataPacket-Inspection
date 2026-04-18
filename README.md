@@ -175,7 +175,7 @@ packet_analyzer/
 
 ---
 
-## 5. The Journey of a Packet (Simple Version)
+## 5. The Journey of a Packet (Simple Version )
 
 Let's trace a single packet through `main_working.cpp`:
 
